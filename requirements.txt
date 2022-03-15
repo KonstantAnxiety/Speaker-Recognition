@@ -1,0 +1,6 @@
+vosk
+numpy
+soundfile
+pydub
+matplotlib
+simple-diarizer
